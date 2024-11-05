@@ -1,4 +1,4 @@
-# Prayer Time API
+# API Jadwal Sholat Kemenag
 
 A RESTful API for retrieving prayer times in Indonesia. This API provides prayer schedules for different cities and provinces. All prayer time data is sourced directly from Kemenag RI website.
 
