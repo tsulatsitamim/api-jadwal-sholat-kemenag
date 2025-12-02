@@ -3,6 +3,7 @@ A RESTful API for retrieving prayer times in Indonesia. This API provides prayer
 
 ## Table of Contents
 - [Features](#features)
+- [Base URL](#base-url)
 - [API Endpoints](#api-endpoints)
 - [Usage Examples](#usage-examples)
 - [Error Handling](#error-handling)
@@ -14,6 +15,11 @@ A RESTful API for retrieving prayer times in Indonesia. This API provides prayer
 - List cities by province
 - Prayer time data from Kemenag RI
 - Automatic data synchronization with Kemenag RI website
+
+## Base URL
+```
+https://jadwal-sholat.terusberbuatbaik.com
+```
 
 ## API Endpoints
 
